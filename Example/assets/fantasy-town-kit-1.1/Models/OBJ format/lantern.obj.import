@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lantern.obj-ff1b9875159ecfe7bbacf76fc59c266c.mesh"
+
+[deps]
+
+files=[ "res://.import/lantern.obj-ff1b9875159ecfe7bbacf76fc59c266c.mesh" ]
+
+source_file="res://Example/assets/fantasy-town-kit-1.1/Models/OBJ format/lantern.obj"
+dest_files=[ "res://.import/lantern.obj-ff1b9875159ecfe7bbacf76fc59c266c.mesh", "res://.import/lantern.obj-ff1b9875159ecfe7bbacf76fc59c266c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bannerRed.obj-f20c3f2aac3b8815c37441803e5f301f.mesh"
+
+[deps]
+
+files=[ "res://.import/bannerRed.obj-f20c3f2aac3b8815c37441803e5f301f.mesh" ]
+
+source_file="res://Example/assets/fantasy-town-kit-1.1/Models/OBJ format/bannerRed.obj"
+dest_files=[ "res://.import/bannerRed.obj-f20c3f2aac3b8815c37441803e5f301f.mesh", "res://.import/bannerRed.obj-f20c3f2aac3b8815c37441803e5f301f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

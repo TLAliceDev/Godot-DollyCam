@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/balconyWall.obj-caf091fc3d782e9291c563da1c5215c6.mesh"
+
+[deps]
+
+files=[ "res://.import/balconyWall.obj-caf091fc3d782e9291c563da1c5215c6.mesh" ]
+
+source_file="res://Example/assets/fantasy-town-kit-1.1/Models/OBJ format/balconyWall.obj"
+dest_files=[ "res://.import/balconyWall.obj-caf091fc3d782e9291c563da1c5215c6.mesh", "res://.import/balconyWall.obj-caf091fc3d782e9291c563da1c5215c6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

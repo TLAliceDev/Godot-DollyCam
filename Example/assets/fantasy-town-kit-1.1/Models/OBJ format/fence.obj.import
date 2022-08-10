@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fence.obj-54099e52332f9a0afc00f41ac43c57cc.mesh"
+
+[deps]
+
+files=[ "res://.import/fence.obj-54099e52332f9a0afc00f41ac43c57cc.mesh" ]
+
+source_file="res://Example/assets/fantasy-town-kit-1.1/Models/OBJ format/fence.obj"
+dest_files=[ "res://.import/fence.obj-54099e52332f9a0afc00f41ac43c57cc.mesh", "res://.import/fence.obj-54099e52332f9a0afc00f41ac43c57cc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

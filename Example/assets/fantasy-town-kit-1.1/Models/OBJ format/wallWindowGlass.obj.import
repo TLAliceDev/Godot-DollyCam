@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallWindowGlass.obj-aa70bdf208336ae847e910f349c37ec4.mesh"
+
+[deps]
+
+files=[ "res://.import/wallWindowGlass.obj-aa70bdf208336ae847e910f349c37ec4.mesh" ]
+
+source_file="res://Example/assets/fantasy-town-kit-1.1/Models/OBJ format/wallWindowGlass.obj"
+dest_files=[ "res://.import/wallWindowGlass.obj-aa70bdf208336ae847e910f349c37ec4.mesh", "res://.import/wallWindowGlass.obj-aa70bdf208336ae847e910f349c37ec4.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

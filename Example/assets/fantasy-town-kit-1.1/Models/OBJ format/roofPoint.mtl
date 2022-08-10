@@ -1,0 +1,8 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl roofLight
+Kd 0.4100658 0.8962264 0.7246404
+
+newmtl roof
+Kd 0.2588235 0.7921569 0.6039216
+

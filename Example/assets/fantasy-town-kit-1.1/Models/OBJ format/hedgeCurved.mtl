@@ -1,0 +1,8 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl stone
+Kd 0.6916608 0.8617874 0.9339623
+
+newmtl foliage
+Kd 0.2588235 0.7921569 0.6034038
+
