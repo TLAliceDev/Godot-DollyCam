@@ -1,5 +1,8 @@
 # Godot DollyCam
  A simple dolly cam class for Godot
+ 
+![DollyGif](https://user-images.githubusercontent.com/109485802/184016649-0e20099e-9afb-44ea-9925-f5589bc463f2.gif)
+
 
 # How to use
  Simply place the DollyCam.gd script anywwhere in your Godot Project and then instance a Dolly node
@@ -20,3 +23,6 @@
  Camera Position Offset: Offset that will be added to the Camera's translation.
  
  Camera Rotation Degrees: Angle by which to rotate the camera (in degrees).
+
+
+Example scene uses assets by kenney.nl
