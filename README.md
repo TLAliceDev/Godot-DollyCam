@@ -4,6 +4,8 @@
 # How to use
  Simply place the DollyCam.gd script anywwhere in your Godot Project and then instance a Dolly node
  
+ You can create the track in which the camera will move in the same way as you'd create any other 3D Path.
+ 
 # Properties:
  Camera Path: Path to the node that will follow the dolly. If none is provided, then it will create a new default Camera node and set it as the current camera
  
